@@ -6,13 +6,13 @@ Welcome to the Networking repository! This repository is dedicated to providing 
 
 #### Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Resources](#resources)
-4. [Tutorials](#tutorials)
-5. [Tools](#tools)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. [Introduction]
+2. [Getting Started]
+3. [Resources]
+4. [Tutorials]
+5. [Tools]
+6. [Contributing]
+7. [License]
 
 ---
 
@@ -26,9 +26,9 @@ Computer networking is a fundamental aspect of modern technology, enabling devic
 
 If you're new to networking, start with the following resources to get a basic understanding:
 
-- [What is Networking?](https://www.cloudflare.com/learning/network-layer/what-is-networking/)
-- [Introduction to Networking Concepts](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
-- [Networking Basics Tutorial](https://www.tutorialspoint.com/computer_networking/computer_networking_basics.htm)
+- [What is Networking?](https://www.ibm.com/topics/networking/)
+- [Introduction to Networking Concepts](https://www.geeksforgeeks.org/basics-computer-networking/)
+- [Networking Basics Tutorial](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 ---
 
