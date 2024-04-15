@@ -41,12 +41,12 @@ Here are some recommended books, articles, and online courses to deepen your und
   - "TCP/IP Illustrated" by W. Richard Stevens
   
 - **Articles**
-  - [OSI Model Explained](https://www.geeksforgeeks.org/osi-model/)
-  - [IP Addressing and Subnetting](https://www.networkworld.com/article/3236064/ip-addressing-and-subnetting-tutorial.html)
+  - [OSI Model Explained](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+  - [IP Addressing and Subnetting](https://www.geeksforgeeks.org/difference-between-ip-addressing-and-subnetting/)
   
 - **Online Courses**
-  - [Networking Basics Course on Udemy](https://www.udemy.com/course/networking-basics-course/)
-  - [Cisco Networking Basics on Coursera](https://www.coursera.org/learn/networking-basics)
+  - [Networking Basics Course on Udemy](https://www.udemy.com/topic/it-networking-fundamentals/)
+  - [Cisco Networking Basics on Coursera](https://www.coursera.org/learn/basics-of-cisco-networking)
 
 ---
 
@@ -54,8 +54,8 @@ Here are some recommended books, articles, and online courses to deepen your und
 
 Explore these tutorials to learn practical networking skills and concepts:
 
-- [Setting Up a Home Network](https://www.wikihow.com/Set-Up-a-Home-Network)
-- [Basic Network Troubleshooting](https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-network-problems)
+- [Setting Up a Home Network](https://www.wikihow.com/Create-a-Home-Network)
+- [Basic Network Troubleshooting](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-troubleshooting.html)
 
 ---
 
@@ -63,11 +63,63 @@ Explore these tutorials to learn practical networking skills and concepts:
 
 Here are some useful tools and software for networking:
 
-- **Wireshark**: A network protocol analyzer for capturing and analyzing network traffic.
-- **Cisco Packet Tracer**: A network simulation and visualization tool.
-- **PingPlotter**: A network troubleshooting and diagnostic tool.
+- **Wireshark**: 
+  - **Description**: A network protocol analyzer for capturing and analyzing network traffic.
+  - **Website**: [Wireshark Official Site](https://www.wireshark.org/)
+  - **Features**: 
+    - Deep inspection of hundreds of protocols
+    - Live capture and offline analysis
+    - Rich VoIP analysis
+    - Powerful display filters
+
+- **Cisco Packet Tracer**: 
+  - **Description**: A network simulation and visualization tool for teaching and learning complex networking concepts.
+  - **Website**: [Cisco Packet Tracer Overview](https://www.netacad.com/courses/packet-tracer)
+  - **Features**: 
+    - Simulation, visualization, and assessment
+    - Multiuser collaboration
+    - Network topology design and modeling
+    - Integrated troubleshooting tools
+
+- **PingPlotter**: 
+  - **Description**: A network troubleshooting and diagnostic tool that visualizes network performance and identifies connectivity issues.
+  - **Website**: [PingPlotter Official Site](https://www.pingplotter.com/)
+  - **Features**: 
+    - Real-time network performance graphs
+    - Packet loss and latency visualization
+    - Traceroute analysis
+    - Historical data recording and reporting
+
+- **Nmap (Network Mapper)**: 
+  - **Description**: A free and open-source network scanning tool used for network discovery and security auditing.
+  - **Website**: [Nmap Official Site](https://nmap.org/)
+  - **Features**: 
+    - Host discovery and port scanning
+    - Version detection and OS fingerprinting
+    - Scriptable interaction with the target
+    - Flexible output formats
+
+- **Netcat (nc)**: 
+  - **Description**: A versatile networking utility for reading from and writing to network connections using TCP or UDP.
+  - **Website**: [Netcat Wikipedia Page](https://en.wikipedia.org/wiki/Netcat)
+  - **Features**: 
+    - Port scanning and banner grabbing
+    - File transfer
+    - Chat and data redirection
+    - Backdoor access and shell handling
+
+- **Traceroute / MTR**: 
+  - **Description**: Utilities for tracking the path that a packet takes from the source to the destination across an IP network.
+  - **Website**: 
+    - [Traceroute Wikipedia Page](https://en.wikipedia.org/wiki/Traceroute)
+    - [MTR Official Site](https://www.bitwizard.nl/mtr/)
+  - **Features**: 
+    - Hop-by-hop packet path visualization
+    - Round-trip time (RTT) measurements
+    - Network latency and packet loss analysis
 
 ---
+
 
 #### Contributing
 
